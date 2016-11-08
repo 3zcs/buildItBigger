@@ -1,0 +1,35 @@
+{
+  "project_info": {
+    "project_number": "322708988481",
+    "project_id": "builditbigger-cf7ce"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:322708988481:android:9f736eb9fc1e1319",
+        "android_client_info": {
+          "package_name": "com.udacity.gradle.builditbigger"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzg6Qh4bNX3Mwke0lOrO1cu9IwgiIxJ5E"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
